@@ -7,6 +7,7 @@ class Game
 {
 	// member variables
 	public Surface screen;
+
 	// initialize
 	public void Init()
 	{
